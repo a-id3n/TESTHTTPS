@@ -1,0 +1,28 @@
+@font-face {
+  font-family: Staatliches;
+  src: url(Staatliches-Regular.woff);
+}
+
+.title {
+  font-family: "Staatliches";
+  font-size: 75px;
+  color: crimson;
+}
+
+.button {
+  font-family: "Staatliches";
+  font-size: 25px;
+  margin-top: 50px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: crimson;
+}
